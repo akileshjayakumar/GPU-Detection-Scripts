@@ -45,25 +45,3 @@ if either library is missing. Install them individually with:
 ```bash
 pip install torch tensorflow pytest
 ```
-
-Alternatively, install everything from the provided requirements file:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Testing
-
-This project uses [pytest](https://pytest.org/) for its test suite. After
-installing the required packages, run:
-
-```bash
-pytest
-```
-
-This command executes the tests under the `tests` directory and verifies that
-each GPU detection script runs without errors.
-
-## Acknowledgments
-
-Thanks to the open-source community for the tools and libraries used.
