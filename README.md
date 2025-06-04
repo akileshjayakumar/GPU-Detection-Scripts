@@ -34,8 +34,8 @@ Each script will display the following information:
   - Number of CUDA devices.
   - Name of the first CUDA device (if available).
   
-- **TensorFlow**: 
-  - Number of GPUs detected.
+- **TensorFlow**:
+  - Prints the number of GPUs available (`Num GPUs Available`).
 
 ## Requirements
 
