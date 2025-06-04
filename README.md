@@ -64,6 +64,6 @@ pytest
 This command executes the tests under the `tests` directory and verifies that
 each GPU detection script runs without errors.
 
-## Acknowledgements
+## Acknowledgments
 
 Thanks to the open-source community for the tools and libraries used.
