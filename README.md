@@ -39,7 +39,8 @@ Each script will display the following information:
 
 ## Requirements
 
-Ensure you have the necessary libraries installed:
+Ensure you have the necessary libraries installed. The scripts will notify you
+if either library is missing:
 
 ```bash
 pip install torch tensorflow
