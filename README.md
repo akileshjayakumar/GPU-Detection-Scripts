@@ -46,6 +46,6 @@ if either library is missing:
 pip install torch tensorflow
 ```
 
-## Acknowledgements
+## Acknowledgments
 
 Thanks to the open-source community for the tools and libraries used.
