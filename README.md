@@ -40,10 +40,16 @@ Each script will display the following information:
 ## Requirements
 
 Ensure you have the necessary libraries installed. The scripts will notify you
-if either library is missing:
+if either library is missing. Install them individually with:
 
 ```bash
-pip install torch tensorflow
+pip install torch tensorflow pytest
+```
+
+Alternatively, install everything from the provided requirements file:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Testing
